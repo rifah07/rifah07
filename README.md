@@ -20,6 +20,10 @@ Next.js, MongoDB, Gemini, Zod · [code](https://github.com/rifah07/ai-ecommerce-
 **[Multi-Tenant Workspace API](https://multi-tenant-organization-9d2r.onrender.com/api-docs)** · Organizations with isolated data and role-based access.
 Express, Prisma, PostgreSQL · [code](https://github.com/rifah07/multi_tenant_organization)
 
+#### Short demos
+
+[HallMate, 2 min](https://github.com/rifah07/hallmate-frontend/blob/master/docs/demo.mp4) · [DevScript, 1 min](https://github.com/rifah07/devscript-web/blob/master/docs/demo-devscript.mp4) · [The Misk Journal, 45 s](https://github.com/rifah07/devscript-web/blob/master/docs/demo-misk.mp4) · [Portfolio, 45 s](https://github.com/rifah07/rifah-sajida-deya-portfolio-2.0/blob/main/docs/demo.mp4)
+
 #### Tools I use day to day
 
 TypeScript, Python, Node.js, NestJS, Express, Django, React, Next.js, PostgreSQL, MongoDB, Prisma, GraphQL, Docker, GitHub Actions, Vercel
